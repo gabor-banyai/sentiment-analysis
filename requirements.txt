@@ -1,0 +1,13 @@
+afinn==0.1
+configparser==5.0.0
+matplotlib==3.2.1
+multidict==4.7.5
+nltk==3.5
+numpy==1.18.1
+pandas==1.0.3
+praw==7.1.0
+scikit-image==0.17.2
+scikit-learn==0.22.2.post1
+scipy==1.4.1
+sklearn==0.0
+textblob==0.15.3
